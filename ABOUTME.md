@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Luis José
+- 👀 I’m interested in learn new things
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me, by email luis.guisadobarrera@gmail.com
